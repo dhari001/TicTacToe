@@ -7,8 +7,8 @@ Game of human vs. computer tictactoe
 * Introduction to Machine Learning
 
 ## Authors
-Dharitri Dixit
-Billy Bolton
+Dharitri Dixit \
+Billy Bolton \
 Andrew Forward
 
 ## About Game
